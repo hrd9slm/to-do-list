@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1710906173 source:c:\users\pc\documents\simplon\language c\language c\todolist\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
